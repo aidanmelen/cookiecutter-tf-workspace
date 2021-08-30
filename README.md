@@ -4,7 +4,7 @@
 
 ![cookiecutter + terraform](https://app.lucidchart.com/publicSegments/view/cc4a32be-9ba9-4c64-863b-6646b2b6f10a/image.png)
 
-Cookiecutter template for creating Terraform Workspaces. Leverage reusable Terraform modules within you workspace to keep your Terraform DRY.
+Cookiecutter template for creating Terraform Workspaces.
 
 Also checkout [cookiecutter-tf-module](https://github.com/aidanmelen/cookiecutter-tf-module).
 
