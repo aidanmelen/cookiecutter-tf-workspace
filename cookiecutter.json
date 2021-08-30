@@ -1,0 +1,8 @@
+{
+  "tf_workspace": "terraform-workspace-example",
+  "description": "A Terraform Workspace Example.",
+  "email": "me@aidanmelen.com",
+  "github_account": "aidanmelen",
+  "tf_version": "1.0.5",
+  "use_aws_provider": "y"
+}
